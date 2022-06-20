@@ -47,7 +47,7 @@ If the request is processed successfully, you will receive a response like this:
 {"message":"your-message","signature":"hmac-token"}
 ```
 
-Otherwise you will receive an error message:
+Otherwise you will receive an error message.
 
 Here is an example of a successful request and it's corresponding response:
 
